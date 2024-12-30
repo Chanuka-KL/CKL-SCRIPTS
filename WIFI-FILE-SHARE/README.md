@@ -8,7 +8,7 @@ Welcome to **CKL-SCRIPTS** 👾, a collection of fun and useful scripts for ethi
 This script sets up a simple, customizable local file-sharing server. It allows users to upload, download, manage, and organize files and directories over a WiFi connection, all through a web browser.
 
 #### Screenshot:
-![File Share Screenshot](screenshot.jpg)
+![File Share Screenshot](Screenshot.jpg)
 
 ### Key Features:
 - **📤 File Upload & Download**: Easily upload and download files via the web interface.
