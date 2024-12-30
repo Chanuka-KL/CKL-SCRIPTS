@@ -20,17 +20,12 @@ You can further enhance the script by adding:
 
 ## 📥 How to Use:
 
-1. **Clone the repository** to your local machine:
-
-    ```bash
-    git clone https://github.com/Chanuka-KL/CKL-SCRIPTS.git
-    cd CKL-SCRIPTS
-    ```
+1. **Download the script** to your local machine.
 
 2. **Run the file-sharing script:**
 
     ```bash
-    python WIFI-FILE-SHARE.PY
+    python Script.py
     ```
 
 3. **Access the file server** from your browser by visiting:
