@@ -1,10 +1,4 @@
-# CKL-SCRIPTS 🎉
-
-Welcome to **CKL-SCRIPTS** 👾, a collection of fun and useful scripts for ethical hacking, file management, and much more! This repository contains a variety of scripts designed to make tasks easier, boost productivity, and add a bit of fun to your coding experience.
-
-## 🛠️ Overview
-
-### CKL WiFi File Share
+### CKL WiFi File Share 👾
 This script sets up a simple, customizable local file-sharing server. It allows users to upload, download, manage, and organize files and directories over a WiFi connection, all through a web browser.
 
 #### Screenshot:
