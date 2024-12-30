@@ -39,7 +39,7 @@ class FileManagerHandler(SimpleHTTPRequestHandler):
             self.send_error(404, "Directory not found")
             return None
 
-        # Generate styled HTML for file explorer with server details
+        # Generate styled HTML for file-explorer with server details
         output = f"""
         <!DOCTYPE html>
         <html lang="en">
